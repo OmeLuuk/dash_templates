@@ -12,7 +12,7 @@ This template assumes you have followed the quick start steps in the main `dash_
 
 To run this app:
 1. Ensure your virtual environment is activated. You should see `(.venv)` before your command line prompt.
-2. Run the script by executing `(.venv) PS D:\dev\dash_templates> python .\0hello_world\basic_template.py`. Note that this is executed from the dash_templates folder
+2. Run the script by executing `(.venv) PS D:\dev\dash_templates> python .\0hello_world\hello_world.py`. Note that this is executed from the dash_templates folder
 
 
 ## Viewing the App
